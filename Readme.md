@@ -31,7 +31,7 @@ The project includes:
 ##  How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/credit-scoring-ml.git
+   git clone https://github.com/varshini2580/credit-scoring-ml.git
    cd credit-scoring-ml
 
 # Install dependencies:
@@ -39,5 +39,6 @@ pip install -r requirements.txt
 
 # Run the Streamlit app:
 streamlit run app.py
+
 
 
